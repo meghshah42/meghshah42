@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meghshah42
-- 👀 I’m interested in ...codong
-- 🌱 I’m currently learning ...11th
+- 👀 I’m interested in ...coding
+- 🌱 I’m currently learning ... cyber security 
 - 💞️ I’m looking to collaborate on ...google
 - 📫 How to reach me ...
 
